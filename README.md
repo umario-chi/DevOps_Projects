@@ -6,12 +6,12 @@
 
 ## 2. Git Installation 
 
-![git](./images/2.%20git.png)
+![git](./images/8.%20git%20bash.png)
 
 
-## 3. Virtual Machine Installation
+## 3. Virtual Box
 
-![vm](./images/3.%20VM%20Ware.png)
+![vm](./images/7.%20Virtual%20Box.png)
 
 
 ## 4. Ubuntu Setup
