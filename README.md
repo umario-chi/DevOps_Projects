@@ -22,3 +22,8 @@
 ## 5. Github url to project
 
 [project url](https://github.com/umario-chi/DevOps_Projects/blob/Project2_Git/index.html)
+
+
+## 6. dashboard
+
+![dashboard](./screenshots/dashboard.jpg)
