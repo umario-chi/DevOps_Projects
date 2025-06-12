@@ -1,32 +1,24 @@
 # Project 1 Installation of Basic Tool
 
-## 1. Visual Studio Code (VS Code) Installation
+## 1. git init
 
-![vscode](./images/1.%20vscode.png)
+![git init](./screenshots/git%20init.jpg)
 
-## 2. Git Installation 
+## 2. git add and commit 
 
-![git](./images/8.%20git%20bash.png)
-
-
-## 3. Virtual Box
-
-![vm](./images/7.%20Virtual%20Box.png)
+![git add_commot](./screenshots/git%20add%20and%20commit.jpg)
 
 
-## 4. Ubuntu Setup
+## 3. git checkout and cmmit
+
+![git checkout_commit](./screenshots/git%20checkout%20and%20commit.jpg)
 
 
-![Ubuntu](./images/4.%20Ubuntu.png)
+## 4. git push
+
+![git push](./screenshots/git%20push.jpg)
 
 
-## 5. Github Setups
+## 5. Github url to project
 
-
-![Ubuntu](./images/5.%20Github.png)
-
-
-## 6. AWS Setups
-
-![Ubuntu](./images/6.%20AWS.png)
-
+[project url](https://github.com/umario-chi/DevOps_Projects/blob/Project2_Git/index.html)
